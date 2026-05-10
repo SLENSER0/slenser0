@@ -1,6 +1,6 @@
 # Hi, I'm Vasilii Kudriavtsev 👋
 
-I'm a Machine Learning researcher and engineer focused on **Speech AI**, **NLP**, and **multi-agent LLM systems**.
+I'm a Bachelor's student, Machine Learning researcher, and engineer focused on **Speech AI**, **NLP**, and **multi-agent LLM systems**.
 
 Currently, I work as an **AI Researcher at MTUCI**, where I conduct research on speech synthesis, anti-spoofing, audio representations, ASR pipelines, and LLM-based systems.
 
